@@ -1,4 +1,12 @@
 {
   "min_version": "0.9.0",
-  "update_url": "https://onsucloud.com"
+  "update_url": "https://onsucloud.com",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.onsuvpn.com/android.apk",
+    "windows": "https://download.onsuvpn.com/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.onsuvpn.com/linux.run"
+  }
 }
