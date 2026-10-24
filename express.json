@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://expressfreejsq.com"
+  "update_url": "https://expressfreejsq.com",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.expressfreejsq.com/android.apk",
+    "windows": "https://download.expressfreejsq.com/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.expressfreejsq.com/linux.run"
+  }
 }

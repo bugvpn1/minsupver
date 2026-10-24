@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://dgyfreevpn.com"
+  "update_url": "https://dgyfreevpn.com",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.dgyfreevpn.com/android.apk",
+    "windows": "https://download.dgyfreevpn.com/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.dgyfreevpn.com/linux.run"
+  }
 }

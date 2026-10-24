@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://quanqiufree.com"
+  "update_url": "https://quanqiufree.com",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.quanqiufree.com/android.apk",
+    "windows": "https://download.quanqiufree.com/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.quanqiufree.com/linux.run"
+  }
 }

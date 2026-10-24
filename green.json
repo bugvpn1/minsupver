@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://greenqkconnect.org"
+  "update_url": "https://greenqkconnect.org",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.greenqkconnect.org/android.apk",
+    "windows": "https://download.greenqkconnect.org/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.greenqkconnect.org/linux.run"
+  }
 }

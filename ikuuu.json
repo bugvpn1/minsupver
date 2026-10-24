@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://ikuuufreevpn.com"
+  "update_url": "https://ikuuufreevpn.com",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.ikuuufreevpn.com/android.apk",
+    "windows": "https://download.ikuuufreevpn.com/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.ikuuufreevpn.com/linux.run"
+  }
 }

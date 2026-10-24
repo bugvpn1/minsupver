@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://chinaqkconnect.com"
+  "update_url": "https://chinaqkconnect.com",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.chinaqkconnect.com/android.apk",
+    "windows": "https://download.chinaqkconnect.com/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.chinaqkconnect.com/linux.run"
+  }
 }

@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://songshufree.com"
+  "update_url": "https://songshufree.com",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.songshufree.com/android.apk",
+    "windows": "https://download.songshufree.com/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.songshufree.com/linux.run"
+  }
 }

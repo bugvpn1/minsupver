@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://gephfree.com"
+  "update_url": "https://gephfree.com",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.gephfree.com/android.apk",
+    "windows": "https://download.gephfree.com/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.gephfree.com/linux.run"
+  }
 }

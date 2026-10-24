@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://mobilefree.net"
+  "update_url": "https://mobilefree.net",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.mobilefree.net/android.apk",
+    "windows": "https://download.mobilefree.net/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.mobilefree.net/linux.run"
+  }
 }

@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://shendengfree.com"
+  "update_url": "https://shendengfree.com",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.shendengfree.com/android.apk",
+    "windows": "https://download.shendengfree.com/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.shendengfree.com/linux.run"
+  }
 }

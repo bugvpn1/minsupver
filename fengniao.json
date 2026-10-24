@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://fengniaofree.com"
+  "update_url": "https://fengniaofree.com",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.fengniaofree.com/android.apk",
+    "windows": "https://download.fengniaofree.com/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.fengniaofree.com/linux.run"
+  }
 }

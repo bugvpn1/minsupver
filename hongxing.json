@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://hongxingfree.com"
+  "update_url": "https://hongxingfree.com",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.hongxingfree.com/android.apk",
+    "windows": "https://download.hongxingfree.com/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.hongxingfree.com/linux.run"
+  }
 }

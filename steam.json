@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://steamfree.org"
+  "update_url": "https://steamfree.org",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.steamfree.org/android.apk",
+    "windows": "https://download.steamfree.org/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.steamfree.org/linux.run"
+  }
 }

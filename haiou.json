@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://haioufree.com"
+  "update_url": "https://haioufree.com",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.haioufree.com/android.apk",
+    "windows": "https://download.haioufree.com/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.haioufree.com/linux.run"
+  }
 }

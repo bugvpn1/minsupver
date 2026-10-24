@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://gethaoyong.com"
+  "update_url": "https://gethaoyong.com",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.gethaoyong.com/android.apk",
+    "windows": "https://download.gethaoyong.com/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.gethaoyong.com/linux.run"
+  }
 }

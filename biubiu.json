@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://biubiufree.com"
+  "update_url": "https://biubiufree.com",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.biubiufree.com/android.apk",
+    "windows": "https://download.biubiufree.com/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.biubiufree.com/linux.run"
+  }
 }

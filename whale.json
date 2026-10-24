@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://whalefree.net"
+  "update_url": "https://whalefree.net",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.whalefree.net/android.apk",
+    "windows": "https://download.whalefree.net/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.whalefree.net/linux.run"
+  }
 }

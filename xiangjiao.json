@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://getxiangjiao.com"
+  "update_url": "https://getxiangjiao.com",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.getxiangjiao.com/android.apk",
+    "windows": "https://download.getxiangjiao.com/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.getxiangjiao.com/linux.run"
+  }
 }

@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://galaxyfree.org"
+  "update_url": "https://galaxyfree.org",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.galaxyfree.org/android.apk",
+    "windows": "https://download.galaxyfree.org/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.galaxyfree.org/linux.run"
+  }
 }

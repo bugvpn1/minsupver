@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://yilianfree.com"
+  "update_url": "https://yilianfree.com",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.yilianfree.com/android.apk",
+    "windows": "https://download.yilianfree.com/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.yilianfree.com/linux.run"
+  }
 }

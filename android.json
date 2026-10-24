@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://androidfree.org"
+  "update_url": "https://androidfree.org",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.androidfree.org/android.apk",
+    "windows": "https://download.androidfree.org/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.androidfree.org/linux.run"
+  }
 }

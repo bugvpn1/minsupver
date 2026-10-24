@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://mangosekai.com"
+  "update_url": "https://mangosekai.com",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.mangosekai.com/android.apk",
+    "windows": "https://download.mangosekai.com/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.mangosekai.com/linux.run"
+  }
 }

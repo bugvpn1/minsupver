@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://iosfree.org"
+  "update_url": "https://iosfree.org",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.iosfree.org/android.apk",
+    "windows": "https://download.iosfree.org/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.iosfree.org/linux.run"
+  }
 }

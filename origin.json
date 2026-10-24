@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://originfree.org"
+  "update_url": "https://originfree.org",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.originfree.org/android.apk",
+    "windows": "https://download.originfree.org/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.originfree.org/linux.run"
+  }
 }

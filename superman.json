@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://supermanfreevpn.com"
+  "update_url": "https://supermanfreevpn.com",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.supermanfreevpn.com/android.apk",
+    "windows": "https://download.supermanfreevpn.com/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.supermanfreevpn.com/linux.run"
+  }
 }

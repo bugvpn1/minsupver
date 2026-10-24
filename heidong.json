@@ -1,4 +1,12 @@
 {
   "min_version": "1.3.4",
-  "update_url": "https://heidongfree.com"
+  "update_url": "https://heidongfree.com",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.heidongfree.com/android.apk",
+    "windows": "https://download.heidongfree.com/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.heidongfree.com/linux.run"
+  }
 }

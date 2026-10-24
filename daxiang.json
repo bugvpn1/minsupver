@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://daxiangfree.com"
+  "update_url": "https://daxiangfree.com",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.daxiangfree.com/android.apk",
+    "windows": "https://download.daxiangfree.com/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.daxiangfree.com/linux.run"
+  }
 }

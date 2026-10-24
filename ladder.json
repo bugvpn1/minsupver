@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://ladderfree.org"
+  "update_url": "https://ladderfree.org",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.ladderfree.org/android.apk",
+    "windows": "https://download.ladderfree.org/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.ladderfree.org/linux.run"
+  }
 }

@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://kuromisfreevpn.com"
+  "update_url": "https://kuromisfreevpn.com",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.kuromisfreevpn.com/android.apk",
+    "windows": "https://download.kuromisfreevpn.com/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.kuromisfreevpn.com/linux.run"
+  }
 }

@@ -1,4 +1,12 @@
 {
   "min_version": "1.4.0",
-  "update_url": "https://sanmaofreevpn.com"
+  "update_url": "https://sanmaofreevpn.com",
+  "latest_version": "1.5.2",
+  "download_urls": {
+    "android": "https://download.sanmaofreevpn.com/android.apk",
+    "windows": "https://download.sanmaofreevpn.com/win.exe",
+    "ios": "",
+    "macos": "",
+    "linux": "https://download.sanmaofreevpn.com/linux.run"
+  }
 }
