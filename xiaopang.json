@@ -1,7 +1,7 @@
 {
   "min_version": "1.4.0",
   "update_url": "https://xiaopangfree.com",
-  "latest_version": "1.5.2",
+  "latest_version": "1.6.2",
   "download_urls": {
     "android": "https://download.xiaopangfree.com/android.apk",
     "windows": "https://download.xiaopangfree.com/win.exe",

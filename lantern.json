@@ -1,7 +1,7 @@
 {
   "min_version": "1.4.0",
   "update_url": "https://lanternfree.com",
-  "latest_version": "1.5.2",
+  "latest_version": "1.6.2",
   "download_urls": {
     "android": "https://download.lanternfree.com/android.apk",
     "windows": "https://download.lanternfree.com/win.exe",
